@@ -1,0 +1,44 @@
+{
+ "CMND": "023113369",
+ "Danh_sach_Don_xin_nghi": [],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  },
+  {
+   "Ma_so": "NGA",
+   "Ten": "Nga"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  },
+  {
+   "Ma_so": "BRASIL",
+   "Ten": "Brasil"
+  }
+ ],
+ "Dia_chi": "Quách thanh G Quận 12-TP. HCM",
+ "Dien_thoai": "0995770608",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_1",
+   "Ten": "Chi nhánh A"
+  },
+  "Ma_so": "DV_2",
+  "Ten": "Đa năng A"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Nguyễn như Anh",
+ "Ma_so": "NV_12",
+ "Mail": "nnanh@mdavn",
+ "Mat_khau": "NV_12",
+ "Muc_luong": 8050000,
+ "Ngay_sinh": "1986-04-05T17:00:00Z",
+ "Ten_Dang_nhap": "NV_12"
+}

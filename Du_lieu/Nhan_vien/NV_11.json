@@ -1,0 +1,36 @@
+{
+ "CMND": "072352541",
+ "Danh_sach_Don_xin_nghi": [],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  },
+  {
+   "Ma_so": "BRASIL",
+   "Ten": "Brasil"
+  }
+ ],
+ "Dia_chi": " Võ Văn Ngang, Quận 9-TP. HCM",
+ "Dien_thoai": "0909090881",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_1",
+   "Ten": "Chi nhánh A"
+  },
+  "Ma_so": "DV_2",
+  "Ten": "Đa năng A"
+ },
+ "Gioi_tinh": "Nữ",
+ "Ho_ten": "Bạch văn Huy",
+ "Ma_so": "NV_11",
+ "Mail": "bvhuy@spthcmcom",
+ "Mat_khau": "NV_11",
+ "Muc_luong": 7500000,
+ "Ngay_sinh": "1980-11-07T17:00:00Z",
+ "Ten_Dang_nhap": "NV_11"
+}

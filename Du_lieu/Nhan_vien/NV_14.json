@@ -1,0 +1,125 @@
+{
+ "CMND": "030581362",
+ "Danh_sach_Don_xin_nghi": [
+  {
+   "Ly_do": "đi chích ngừa covid",
+   "Ngay_Bat_dau_nghi": "2021-04-29",
+   "Ngay_Nop_don": "2021-04-12-13-17-54",
+   "So_ngay": 6,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.ok"
+   }
+  },
+  {
+   "Ly_do": "Ôn thi môn Phân tích thiết kế Phần mềm",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-12-13-58-03",
+   "So_ngay": 9,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.ok"
+   }
+  },
+  {
+   "Ly_do": "Ôn thi học kỳ",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-12-13-58-52",
+   "So_ngay": 8,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.ok"
+   }
+  },
+  {
+   "Ly_do": "đi chơi",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-12-14-58-18",
+   "So_ngay": 7,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   }
+  },
+  {
+   "Ly_do": "On thi pttkpm",
+   "Ngay_Bat_dau_nghi": "2021-05-01",
+   "Ngay_Nop_don": "2021-04-12-14-58-50",
+   "So_ngay": 6,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.Ok thi tốt, nhớ xem bài thật kỹ nha"
+   }
+  }
+ ],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  },
+  {
+   "Ma_so": "BRASIL",
+   "Ten": "Brasil"
+  },
+  {
+   "Ma_so": "NGA",
+   "Ten": "Nga"
+  },
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  }
+ ],
+ "Dia_chi": "Mai hữu M Quận 14-TP. HCM",
+ "Dien_thoai": "0952055942",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_1",
+   "Ten": "Chi nhánh A"
+  },
+  "Ma_so": "DV_1",
+  "Ten": "Dịch thuật"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Lý phước Mai",
+ "Ma_so": "NV_14",
+ "Mail": "lpmai@cscvn",
+ "Mat_khau": "NV_14",
+ "Muc_luong": 10500000,
+ "Ngay_sinh": "1982-07-21T17:00:00Z",
+ "Ten_Dang_nhap": "NV_14"
+}

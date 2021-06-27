@@ -1,0 +1,40 @@
+{
+ "CMND": "087702450",
+ "Danh_sach_Don_xin_nghi": [],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  },
+  {
+   "Ma_so": "NGA",
+   "Ten": "Nga"
+  }
+ ],
+ "Dia_chi": "Lâm bảo G Quận 14-TP. HCM",
+ "Dien_thoai": "0919514721",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_2",
+   "Ten": "Chi nhánh B"
+  },
+  "Ma_so": "DV_6",
+  "Ten": "Đa năng B"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Lê đắc Hà",
+ "Ma_so": "NV_100",
+ "Mail": "lđhà@sptvn",
+ "Mat_khau": "NV_100",
+ "Muc_luong": 7500000,
+ "Ngay_sinh": "1983-09-12T17:00:00Z",
+ "Ten_Dang_nhap": "NV_100"
+}

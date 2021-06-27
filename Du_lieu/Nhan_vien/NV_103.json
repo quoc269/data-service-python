@@ -1,0 +1,32 @@
+{
+ "CMND": "076152458",
+ "Danh_sach_Don_xin_nghi": [],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "BRASIL",
+   "Ten": "Brasil"
+  }
+ ],
+ "Dia_chi": "Nhữ thị S Quận 1-TP. HCM",
+ "Dien_thoai": "0982678926",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_2",
+   "Ten": "Chi nhánh B"
+  },
+  "Ma_so": "DV_5",
+  "Ten": "Visa"
+ },
+ "Gioi_tinh": "Nữ",
+ "Ho_ten": "Ngô thị Giảng",
+ "Ma_so": "NV_103",
+ "Mail": "ntgiảng@mrnhncom",
+ "Mat_khau": "NV_103",
+ "Muc_luong": 7500000,
+ "Ngay_sinh": "1983-12-28T17:00:00Z",
+ "Ten_Dang_nhap": "NV_103"
+}

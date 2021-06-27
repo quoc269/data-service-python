@@ -1,0 +1,32 @@
+{
+ "CMND": "006686661",
+ "Danh_sach_Don_xin_nghi": [],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  }
+ ],
+ "Dia_chi": "Thái kim A Quận 14-TP. HCM",
+ "Dien_thoai": "0926768604",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_2",
+   "Ten": "Chi nhánh B"
+  },
+  "Ma_so": "DV_6",
+  "Ten": "Đa năng B"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Lý nam Khuê",
+ "Ma_so": "NV_41",
+ "Mail": "lnkhuê@hcmcom",
+ "Mat_khau": "NV_41",
+ "Muc_luong": 7500000,
+ "Ngay_sinh": "1980-10-25T17:00:00Z",
+ "Ten_Dang_nhap": "NV_41"
+}

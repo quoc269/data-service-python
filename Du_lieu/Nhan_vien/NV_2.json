@@ -1,0 +1,265 @@
+{
+ "CMND": "005246710",
+ "Danh_sach_Don_xin_nghi": [
+  {
+   "Ly_do": "Việc riêng",
+   "Ngay_Bat_dau_nghi": "2017-11-29T00:00:00+07:00",
+   "Ngay_Nop_don": "2017-11-02T00:00:00",
+   "So_ngay": 1,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "2017-11-14T00:00:00",
+    "Noi_dung": "Đồng ý cho nghỉ "
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "2017-11-14T00:00:00",
+    "Noi_dung": "Đồng ý cho nghỉ "
+   }
+  },
+  {
+   "Ly_do": "chích ngừa covid",
+   "Ngay_Bat_dau_nghi": "2021-03-23",
+   "Ngay_Nop_don": "2021-03-23-11",
+   "So_ngay": "14",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Không Đồng ý. Thời gian nghỉ vượt quá quy định của công ty, cần xem lai\r\n"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "ok"
+   }
+  },
+  {
+   "Ly_do": "cccc",
+   "Ngay_Bat_dau_nghi": "2021-03-24",
+   "Ngay_Nop_don": "2021-03-24-15",
+   "So_ngay": "4",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Không Đồng ý. Cần ghi rõ lý do nghỉ"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "ok"
+   }
+  },
+  {
+   "Ly_do": "xxxxx",
+   "Ngay_Bat_dau_nghi": "2021-03-24",
+   "Ngay_Nop_don": "2021-03-24-21",
+   "So_ngay": "6",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "vvv"
+   }
+  },
+  {
+   "Ly_do": "vvvv",
+   "Ngay_Bat_dau_nghi": "2021-03-27",
+   "Ngay_Nop_don": "2021-03-24-21",
+   "So_ngay": "8",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "vvv"
+   }
+  },
+  {
+   "Ly_do": "zzzz",
+   "Ngay_Bat_dau_nghi": "2021-03-26",
+   "Ngay_Nop_don": "2021-03-25-07-42-55",
+   "So_ngay": "3",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "ok"
+   }
+  },
+  {
+   "Ly_do": "vvv",
+   "Ngay_Bat_dau_nghi": "2021-03-27",
+   "Ngay_Nop_don": "2021-03-25-07-43-27",
+   "So_ngay": "6",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "ok"
+   }
+  },
+  {
+   "Ly_do": "aaa",
+   "Ngay_Bat_dau_nghi": "2021-03-26",
+   "Ngay_Nop_don": "2021-03-25-07-43-59",
+   "So_ngay": "5",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "ok"
+   }
+  },
+  {
+   "Ly_do": "55555555",
+   "Ngay_Bat_dau_nghi": "2021-03-25",
+   "Ngay_Nop_don": "2021-03-25-09-39-03",
+   "So_ngay": "5",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Không Đồng ý. Lý do không rõ"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "ok"
+   }
+  },
+  {
+   "Ly_do": "66666666666",
+   "Ngay_Bat_dau_nghi": "2021-03-25",
+   "Ngay_Nop_don": "2021-03-25-09-39-16",
+   "So_ngay": "6",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý. ok"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Không đồng ý "
+   }
+  },
+  {
+   "Ly_do": "999999999999",
+   "Ngay_Bat_dau_nghi": "2021-03-26",
+   "Ngay_Nop_don": "2021-03-25-09-39-29",
+   "So_ngay": "7",
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Không Đồng ý. Việc đang gấp lắm em nhé"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "ok"
+   }
+  },
+  {
+   "Ly_do": "đi du lịch công ty",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-11-22-41-12",
+   "So_ngay": 4,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Không Đồng ý. Việc đang rất gấp"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.ok"
+   }
+  },
+  {
+   "Ly_do": "Thi học kỳ ĐTTX",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-11-22-44-13",
+   "So_ngay": 2,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   }
+  },
+  {
+   "Ly_do": "đi phỏng vấn",
+   "Ngay_Bat_dau_nghi": "2021-05-31",
+   "Ngay_Nop_don": "2021-04-12-11-08-45",
+   "So_ngay": 7,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   }
+  }
+ ],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "PHAP",
+   "Ten": "Pháp"
+  },
+  {
+   "Ma_so": "DUC",
+   "Ten": "Đức"
+  },
+  {
+   "Ma_so": "Y",
+   "Ten": "Ý"
+  },
+  {
+   "Ma_so": "BRASIL",
+   "Ten": "Brasil"
+  }
+ ],
+ "Dia_chi": "Đinh thế D Quận 6-TP. HCM",
+ "Dien_thoai": "0919631495",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_1",
+   "Ten": "Chi nhánh A"
+  },
+  "Ma_so": "DV_2",
+  "Ten": "Đa năng A"
+ },
+ "Gioi_tinh": "Nam",
+ "Ho_ten": "Thái thế hiền Thục",
+ "Ma_so": "NV_2",
+ "Mail": "tththục@euhyahoocom",
+ "Mat_khau": "NV_2",
+ "Muc_luong": 10850000,
+ "Ngay_sinh": "1970-12-24T17:00:00Z",
+ "Ten_Dang_nhap": "NV_2"
+}

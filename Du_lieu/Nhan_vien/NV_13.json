@@ -1,0 +1,97 @@
+{
+ "CMND": "033651201",
+ "Danh_sach_Don_xin_nghi": [
+  {
+   "Ly_do": "Bệnh",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-12-13-14-05",
+   "So_ngay": 10,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Không Đồng ý. việc gấp"
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.ok"
+   }
+  },
+  {
+   "Ly_do": "Ôn thi học kỳ ",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-12-13-14-47",
+   "So_ngay": 8,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.ok"
+   }
+  },
+  {
+   "Ly_do": "on thi",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-12-14-56-52",
+   "So_ngay": 5,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": true,
+    "Ngay": "",
+    "Noi_dung": "Đồng ý.ok"
+   }
+  },
+  {
+   "Ly_do": "ôn thi học ky",
+   "Ngay_Bat_dau_nghi": "2021-04-30",
+   "Ngay_Nop_don": "2021-04-12-14-57-36",
+   "So_ngay": 9,
+   "Y_kien_Quan_ly_Chi_nhanh": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   },
+   "Y_kien_Quan_ly_Don_vi": {
+    "Da_co_Y_kien": false,
+    "Ngay": "",
+    "Noi_dung": ""
+   }
+  }
+ ],
+ "Danh_sach_Ngoai_ngu": [
+  {
+   "Ma_so": "ANH",
+   "Ten": "Anh"
+  },
+  {
+   "Ma_so": "BRASIL",
+   "Ten": "Brasil"
+  }
+ ],
+ "Dia_chi": "Cao phạm T Quận 8-TP. HCM",
+ "Dien_thoai": "0971894555",
+ "Don_vi": {
+  "Chi_nhanh": {
+   "Ma_so": "CN_1",
+   "Ten": "Chi nhánh A"
+  },
+  "Ma_so": "DV_1",
+  "Ten": "Dịch thuật"
+ },
+ "Gioi_tinh": "Nữ",
+ "Ho_ten": "Trần đình Lý",
+ "Ma_so": "NV_13",
+ "Mail": "tđlý@cschcmcom",
+ "Mat_khau": "NV_13",
+ "Muc_luong": 13300000,
+ "Ngay_sinh": "1980-02-28T17:00:00Z",
+ "Ten_Dang_nhap": "NV_13"
+}
