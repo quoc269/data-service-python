@@ -5,17 +5,17 @@ import base64
 
 #--XỬ LÝ LƯU TRỮ
 thuMucDuLieu = Path("./Du_lieu")
-thuMucCongTy = thuMucDuLieu/"Cong_ty"
-thuMucHTML = thuMucDuLieu/"HTML"
-thuMucNhanVien = thuMucDuLieu/"Nhan_vien"
+thuMucCongTy = Path("Du_lieu/Cong_ty")
+thuMucHTML = Path("Du_lieu/HTML")
+thuMucNhanVien = Path("Du_lieu/Nhan_vien")
 
 # CAC HAM XU LY LUU TRU 
 #-----Doc khung html
 def docKhungHTML():
-        chuoiHTML = ""       
-        duongDan = thuMucHTML/"Khung.html"
-        chuoiHTML = duongDan.read_text("utf-8")        
-        return chuoiHTML
+      chuoiHTML = ""       
+      duongDan = Path("Du_lieu/HTML/Khung.html")
+      chuoiHTML = duongDan.read_text("utf-8")        
+      return chuoiHTML
 #-----Doc Cong ty
 def Doc_Cong_ty():
   Duong_dan = thuMucCongTy/"Cong_ty.json"

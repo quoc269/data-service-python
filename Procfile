@@ -1,0 +1,1 @@
+web: gunicorn UD_Dich_vu_Du_lieu:DichVu
